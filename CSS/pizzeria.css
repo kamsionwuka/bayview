@@ -1,0 +1,12 @@
+.piz{
+	top: 0;
+    text-align: center;
+    font-size: 18px;
+    border: 2px solid #000;
+	
+	height:160px;
+	background-color:black;
+	position: fixed;
+	top: 0;
+	width: 100%
+}
